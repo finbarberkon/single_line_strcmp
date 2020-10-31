@@ -3,4 +3,4 @@ When I was a tutor at UNSW CSE, a student challenged me to write a solution for 
 
 This was a fun puzzle. The solution is in `mystrcmp.c`, but I hope you have a go yourself first.
 
-Please let me know if you find any bugs in my implementation, or have a solution for the issue I describe in the `mystrcmp.c`.
+Please let me know if you find any bugs in my implementation, or have a solution for the issue I describe in `mystrcmp.c`.
